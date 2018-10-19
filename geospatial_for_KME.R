@@ -1,3 +1,7 @@
+## Created by
+## A. Kurnikova
+## (2016)
+
 ## First read in the file
 dat <- read.csv(file="~/Downloads/Site5_Conduct_1500.csv",head=TRUE, sep = ",")
 
